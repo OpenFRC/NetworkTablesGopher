@@ -1,4 +1,3 @@
-NetworkTablesGopher
-------
+# NetworkTablesGolang 
+NetworkTables implementation in Golang
 
-Golang implimentation of ntcore and the NetworkTables protocol
